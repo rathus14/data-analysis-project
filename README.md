@@ -14,7 +14,7 @@ This project mirrors the core analytical workflow of an insurance pricing or ris
 2. **SQL analysis** — 10 queries covering loss ratio, claim frequency, severity distribution, and segment pricing flags
 3. **Python analysis** — exploratory data analysis, loss ratio modelling, and a logistic regression claim probability model
 4. **Excel scenario model** — pricing adjustment scenarios showing P&L impact of rate changes by segment
-5. **Power BI dashboard** — interactive portfolio performance dashboard for stakeholder reporting
+5. **Power BI dashboard** — 4-page interactive dashboard for segment analysis and pricing review (available on request / see PDF export in repo)
 
 ---
 
