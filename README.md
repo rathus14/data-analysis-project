@@ -12,7 +12,7 @@ The project covers the main skills an insurance analyst needs:
 2. **SQL analysis** - 10 queries looking at loss ratio by segment, region, age band, and claim severity
 3. **Python analysis** - exploratory analysis, loss ratio breakdown by segment, and a logistic regression model to predict claim probability
 4. **Excel model** - pricing scenario analysis showing what happens if we adjust rates on high-risk segments
-5. **Power BI dashboard** - [see PDF export](insurance_risk_analysis_dashboard.pdf) with 4 pages covering portfolio overview, segment analysis, claim severity, and pricing flags
+5. **Power BI dashboard** - [see PDF export](insurance_risk_analysis.pdf) with 4 pages covering portfolio overview, segment analysis, claim severity, and pricing flags
 
 ---
 
