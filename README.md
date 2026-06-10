@@ -89,7 +89,7 @@ data-analysis-project/
 **Dataset:** Motor Insurance Claims — [Kaggle](https://www.kaggle.com/)  
 58,592 policies | 41 original features | 3 engineered variables (`annual_premium`, `claim_cost`, `loss_ratio`)
 
-The raw dataset is not included in this repository. Download it from Kaggle and run `engineer_features/engineer_insurance_features.py` to reproduce the engineered dataset used in the analysis.
+The raw dataset is not included in this repository. Download it from Kaggle and run `engineer_features/engineer_insurance_features.py` to reproduce the engineered dataset that was used in the analysis.
 
 ---
 
